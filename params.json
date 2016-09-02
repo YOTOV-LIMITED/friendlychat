@@ -1,0 +1,6 @@
+{
+  "name": "Friendlychat",
+  "tagline": "The source for the Firebase codelab for building a cross-platform chat app",
+  "body": "# Firebase Codelab: FriendlyChat\r\n\r\nThis is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the\r\ncode for Web, Android, Objective-C and Swift. To get started open the codelab instructions:\r\n\r\n - [Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).\r\n - [Android Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/).\r\n - [Swift Codelab](https://codelabs.developers.google.com/codelabs/firebase-ios-swift/).\r\n - [Objective-C Codelab](https://codelabs.developers.google.com/codelabs/firebase-ios-objc/).\r\n\r\n\r\n## How to make contributions?\r\nPlease read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)\r\n\r\n\r\n## License\r\nSee [LICENSE](LICENSE)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
